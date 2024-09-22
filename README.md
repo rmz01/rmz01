@@ -1,1 +1,1 @@
-# Aaron profile
+<h2> Hi, I'm Aarón Ramírez! <img src="https://slackmojis.com/emojis/7421-typingcat/download" width="50"></h2>
