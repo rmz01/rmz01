@@ -17,13 +17,6 @@ Alumno ULL: **[Aarón Ramírez Valencia](https://campusingenieriaytecnologia2425
 ### My GitHub Stats 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rmz01&show_icons=true&theme=tokyonight" alt="rmz01" />
 
-### GNU/Linux enjoyer
-<p>
-  
-  <img alt="C++" src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white />
-
-</p>
-
 ### Things I code with
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
