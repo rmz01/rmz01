@@ -13,7 +13,7 @@
 You can send me an *email* to `let email: str = "alu0101438238@ull.edu.es"` to contact me.
 
 ### My GitHub Stats 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rmz01&show_icons=true&theme=gotham" alt="rmz01" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rmz01&show_icons=true&theme=tokyonight" alt="rmz01" />
 
 ### Things I code with
 
