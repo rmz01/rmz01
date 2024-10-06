@@ -9,7 +9,7 @@
 >if buying isn't owning piracy isn't stealing.
 
 ### My page
-![GitHub rmz01 personal page](https://rmz01.github.io/)
+[rmz01 personal page](https://rmz01.github.io/)
 
 ### Contact 📧 
 
